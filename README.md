@@ -2,7 +2,7 @@
 **Project B: Places Attribute Conflation**
 
 ## Project Information
-**Team Member(s):** [Jayden Chan] 
+**Team Member(s):** Jayden Chan
 
 ## Project Description
 When multiple data sources describe the same real-world place, their attributes (names, addresses, phone numbers, categories) often conflict due to typos, outdated information, or varying data collection standards. Precision-Places develops an intelligent, automated decision system to select the most accurate attribute from conflicting sources, ensuring Overture Maps' place data maintains the highest quality.
